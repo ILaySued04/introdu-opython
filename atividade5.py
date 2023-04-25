@@ -1,14 +1,21 @@
-a = 2
-b = 1
+# a = 2
+# b = 1
 
-def soma(a,b):
+# def soma(a,b):
 
-    if a > b :
+#     if a > b :
 
-        print(f"{a} é maior que {b}")
+#         print(f"{a} é maior que {b}")
 
-    else:
+#     else:
 
-        print(f"{b} é maior que {a}")
+#         print(f"{b} é maior que {a}")
 
-soma(a,b)
+# soma(a,b)
+# def linha():
+#     print("______________")
+
+# linha()
+# print("~~~aula1~~~~")
+# linha()
+
